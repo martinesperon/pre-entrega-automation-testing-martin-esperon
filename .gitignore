@@ -1,0 +1,26 @@
+# --- Entorno virtual ---
+venv/
+.env/
+
+# --- Archivos temporales de Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Reportes de Pytest ---
+reporte.html
+*.xml
+*.json
+
+# --- Capturas de pantalla y outputs ---
+*.png
+*.log
+
+# --- Archivos del sistema ---
+.DS_Store
+Thumbs.db
+
+# --- Configuración local ---
+.idea/
+.vscode/
