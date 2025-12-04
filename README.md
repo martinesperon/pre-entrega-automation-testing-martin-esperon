@@ -84,22 +84,22 @@ El objetivo principal es demostrar un flujo completo de testing automatizado, ap
 
 Ejemplo de comando:
 
-```bash
-pytest --html=reports/html/report.html --self-contained-html
+bash
+```pytest --html=reports/html/report.html --self-contained-html```
 
 ## 📦 Instalación del Proyecto
 1. Clonar el repositorio
-git clone https://github.com/usuario/nombre-del-repo.git
-cd nombre-del-repo
+```git clone https://github.com/usuario/nombre-del-repo.git```
+```cd nombre-del-repo```
 
 2. Crear entorno virtual (opcional pero recomendado)
-python -m venv venv
+```python -m venv venv```
 
-source venv/bin/activate       # Linux / Mac
-venv\Scripts\activate          # Windows
+```source venv/bin/activate       # Linux / Mac```
+```venv\Scripts\activate          # Windows```
 
 3. Instalar dependencias
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 ▶️ Cómo Ejecutar las Pruebas
 Ejecutar todas las pruebas
