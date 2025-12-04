@@ -27,33 +27,33 @@ El objetivo principal es demostrar un flujo completo de testing automatizado, ap
 ## 📁 Estructura del Proyecto
 
 .
-├── pages/ # Page Object Model (clases por página)
-│ ├── login_page.py
-│ ├── home_page.py
-│ └── products_page.py
+├── pages/                 # Page Object Model (clases por página)
+│   ├── login_page.py
+│   ├── home_page.py
+│   └── products_page.py
 │
 ├── tests/
-│ ├── ui/
-│ │ ├── test_login.py # Casos UI con Selenium
-│ │ ├── test_add_to_cart.py
-│ │ └── test_checkout.py
-│ │
-│ ├── api/
-│ │ ├── test_get_users.py # Requests API GET
-│ │ ├── test_create_user.py # Requests API POST
-│ │ └── test_delete_user.py # Requests API DELETE
+│   ├── ui/
+│   │   ├── test_login.py            # Casos UI con Selenium
+│   │   ├── test_add_to_cart.py
+│   │   └── test_checkout.py
+│   │
+│   ├── api/
+│   │   ├── test_get_users.py        # Requests API GET
+│   │   ├── test_create_user.py      # Requests API POST
+│   │   └── test_delete_user.py      # Requests API DELETE
 │
 ├── utils/
-│ ├── driver_factory.py # Inicialización WebDriver
-│ └── helpers.py
+│   ├── driver_factory.py            # Inicialización WebDriver
+│   └── helpers.py
 │
 ├── reports/
-│ └── html/ # Reportes generados automáticamente
+│   └── html/                        # Reportes generados automáticamente
 │
 ├── requirements.txt
 ├── pytest.ini
 └── README.md
----
+
 
 ## 🚀 Funcionalidades Implementadas
 
