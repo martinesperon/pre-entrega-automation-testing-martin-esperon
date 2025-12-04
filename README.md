@@ -106,13 +106,13 @@ Ejecutar todas las pruebas
 pytest
 
 Ejecutar solo UI
-pytest tests/ui
+```pytest tests/ui```
 
 Ejecutar solo API
-pytest tests/api
+```pytest tests/api```
 
 Generar un reporte HTML
-pytest --html=reports/html/report.html --self-contained-html
+```pytest --html=reports/html/report.html --self-contained-html```
 
 📊 ¿Cómo Interpretar los Reportes?
 
