@@ -30,7 +30,8 @@ El objetivo principal es demostrar un flujo completo de testing automatizado, ap
 │ ├── login_page.py
 │ ├── home_page.py
 │ └── products_page.py
-│
+
+
 ├── tests/
 │ ├── ui/
 │ │ ├── test_login.py # Casos UI con Selenium
