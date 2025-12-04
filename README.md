@@ -26,6 +26,7 @@ El objetivo principal es demostrar un flujo completo de testing automatizado, ap
 
 ## 📁 Estructura del Proyecto
 
+```markdown
 .
 ├── pages/                 # Page Object Model (clases por página)
 │   ├── login_page.py
@@ -53,7 +54,7 @@ El objetivo principal es demostrar un flujo completo de testing automatizado, ap
 ├── requirements.txt
 ├── pytest.ini
 └── README.md
-
+```
 
 ## 🚀 Funcionalidades Implementadas
 
