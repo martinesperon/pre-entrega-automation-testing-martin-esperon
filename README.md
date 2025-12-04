@@ -1,7 +1,7 @@
 # 🧪 Pre Entrega - Automation Testing (Martín Esperon)
 
 ## 📌 Propósito del proyecto
-Este proyecto forma parte de la pre-entrega del curso de **Automatización de Pruebas de Software**.  
+Este proyecto forma parte del trabajo práctico final del curso de **Automatización de Pruebas de Software**.  
 El objetivo es demostrar el uso de **Selenium WebDriver** y **Pytest** para automatizar pruebas funcionales sobre una aplicación web real: [https://www.saucedemo.com](https://www.saucedemo.com).
 
 Las pruebas automatizadas validan:
