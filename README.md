@@ -26,12 +26,12 @@ El objetivo principal es demostrar un flujo completo de testing automatizado, ap
 
 ## 📁 Estructura del Proyecto
 
+.
 ├── pages/ # Page Object Model (clases por página)
 │ ├── login_page.py
 │ ├── home_page.py
 │ └── products_page.py
-
-
+│
 ├── tests/
 │ ├── ui/
 │ │ ├── test_login.py # Casos UI con Selenium
@@ -53,7 +53,6 @@ El objetivo principal es demostrar un flujo completo de testing automatizado, ap
 ├── requirements.txt
 ├── pytest.ini
 └── README.md
-
 ---
 
 ## 🚀 Funcionalidades Implementadas
