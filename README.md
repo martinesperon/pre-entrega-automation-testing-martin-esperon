@@ -1,4 +1,4 @@
-# 🧪 Pre Entrega - Automation Testing (Martín Esperon)
+# 🧪 Entrega final - Automation Testing (Martín Esperon)
 
 ## 📌 Propósito del proyecto
 Este proyecto forma parte del trabajo práctico final del curso de **Automatización de Pruebas de Software**.  
