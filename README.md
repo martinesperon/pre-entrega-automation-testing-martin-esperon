@@ -24,4 +24,4 @@ Las pruebas automatizadas validan:
 ## 🧠 Comando para ejecutar las pruebas
 
 - **Para ejecutar todas las pruebas y generar un reporte en HTML:**
-pytest -v --html=reporte.html
+pytest -v --html=reports/reporte.html --self-contained-html
